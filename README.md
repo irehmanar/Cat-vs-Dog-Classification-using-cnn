@@ -14,11 +14,11 @@ This project aims to:
 ---
 
 ## 📂 Dataset
-The dataset used for this project consists of images of cats and dogs, split into training and validation sets.  
-- **Training Images**: Located in `/content/train`  
-- **Validation Images**: Located in `/content/test`  
+The Kaggle dataset used for this project consists of images of cats and dogs, split into training and validation sets.  
+- **Training Images**
+- **Validation Images** 
 
-The dataset is loaded using `keras.utils.image_dataset_from_directory`.
+The dataset is `https://www.kaggle.com/datasets/salader/dogs-vs-cats`.
 
 ---
 
